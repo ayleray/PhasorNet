@@ -1,0 +1,17 @@
+
+
+1. Install "MCRInstaller.exe"
+
+2. Launch "PhasorNet_train.exe"
+
+3. Choose the training file. An example is shown in "TrainingSamples.txt"
+
+4. Enter the training parameters.
+Length of learner: number of training samples.
+Temporal resolution (ns): bin of the histogram in nanosecond.
+
+5. A network file is saved in "PhasorNetX.mat"
+where X is a number: 0, 1, 2...
+
+
+
