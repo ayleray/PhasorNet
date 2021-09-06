@@ -1,0 +1,15 @@
+
+
+1. Install "MCRInstaller.exe"
+
+2. Launch "PhasorNet_calcul.exe"
+
+3. Choose the network file. An example is shown in "PhasorNet0.mat"
+
+4. Choose the experimental file to be calculated. An example is shown in "TestSamples.txt"
+
+5. The PhasorNet results are saved in "X_PhasorNet_Results.txt"
+where X is the name of the experimental file.
+
+
+
