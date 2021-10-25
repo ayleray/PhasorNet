@@ -1,0 +1,12 @@
+
+
+1. Open "script_MCsimul.txt"
+
+2. Modify the parameters
+
+3. Launch "simuFLIM.exe"
+
+4. The results are saved in txt file with parameters used.
+
+
+
