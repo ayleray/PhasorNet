@@ -4,6 +4,8 @@
 
 2. Modify the parameters
 
+3. Install Mingw-w64 and launch it
+
 3. Launch "simuFLIM.exe"
 
 4. The results are saved in txt file with parameters used.
