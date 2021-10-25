@@ -1,0 +1,30 @@
+DESTPATH=essai
+# total number of photons (if POISSON=1, N follows Poisson statistics with mean NBPHOTON; otherwise, N=NBPHOTON)
+POISSON=1
+NBPHOTON=100000
+# number of simulated curves and number of channels
+NBSAMPLE=1000
+NBCHAN=256
+# random values (1:yes; 0:no, only the start values are used)
+Random_values=1
+# time in ns
+# parameters of species 1, tau  (ns) and proportion (between 0 and 1)
+TAU1start=0.5
+TAU1stop=15
+P1start=0.1
+P1stop=0.9
+# lifetime of species 2 (proportion P2=1-P1)
+TAU2start=0.5
+TAU2stop=15
+# total number of photons noise (offset)
+BRUITELEstart=0
+BRUITELEstop=0
+# temporal resolution of one channel (ns)
+TCHAN=0.195313
+# laser repetition rate (ns)
+LASER=50
+# rising time (ns)
+TRANSIENT=1
+# full width half maximum of IRF (ns)
+FWHM=0.032
+
